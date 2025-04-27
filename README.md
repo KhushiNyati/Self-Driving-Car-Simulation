@@ -30,7 +30,6 @@ In this project, a self-driving car simulation system was developed using a comb
 
 To get started with this project, clone the repository and install the required dependencies:
 
-```bash
 git clone https://github.com/KhushiNyati/self-driving-car-simulation.git
 cd self-driving-car-simulation
 pip install -r requirements.txt
