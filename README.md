@@ -1,6 +1,5 @@
-# Self-Driving-Car-Simulation-using-YOLO-and-Computer-Vision
-
-# Self-Driving Car Using YOLO and Computer Vision
+Self-Driving Car Simulation using YOLO and Computer Vision
+This project implements a self-driving car simulation using state-of-the-art techniques in computer vision, deep learning, and autonomous driving. The system employs the YOLOv5 (You Only Look Once) object detection model for real-time detection of vehicles, pedestrians, and traffic signs. In addition, a Convolutional Neural Network (CNN) model is trained using behavioral cloning to predict steering angles based on video frames, enabling autonomous driving in a simulated environment.
 
 ### Overview
 This project demonstrates the use of **YOLO (You Only Look Once)** for real-time object detection, along with **computer vision** techniques to create a self-driving car simulation. The system is designed to detect objects like pedestrians, vehicles, traffic signs, and lanes, enabling the car to navigate autonomously.
